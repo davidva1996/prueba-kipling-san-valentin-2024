@@ -47,6 +47,13 @@ html, body {
     display: inline-block;
 }
 
+.btn-SV-2024:hover {
+    background-color: #fff;
+    color: #000; 
+    border: 1px solid #000; 
+    transition: all 0.3s ease;
+}
+
 
 /*PRODUCTOS*/
 
@@ -111,8 +118,9 @@ html, body {
 }
 
 .product-button-SV-2024:hover {
-    background-color: #ff0000;
-    border: 1px solid #ff0000;
+    background-color: #fff; /* Fondo blanco */
+    color: #000; /* Texto negro */
+    border: 1px solid #000; 
 }
 
 
